@@ -1,12 +1,12 @@
 # Documentation
 
-## User Management
+# User Management
 
-### `Get an user`
-#### Descripcion 
+## `Get an user`
+### Descripcion 
 Obtener un usuario con todos sus datos.
 
-#### Datos
+### Datos
 **id:** 
 
 **username:** alfanumerico no mas de 8 caracteres
@@ -18,21 +18,21 @@ Obtener un usuario con todos sus datos.
 **email:** correo electronico del usuario
 
 
-### `Confirm user account`
-#### Descripcion 
+## `Confirm user account`
+### Descripcion 
 
-#### Datos
+### Datos
 
-### `Create an user (sign-up)`
-#### Descripcion 
+## `Create an user (sign-up)`
+### Descripcion 
 
-#### Datos
+### Datos
 
-### `Get all users`
-#### Descripcion 
+## `Get all users`
+### Descripcion 
 Obtener todos los usuarios con todos sus datos.
 
-#### Datos
+### Datos
 **id:**
 
 **username** alfanumerico no mas de 8 caracteres
@@ -43,10 +43,10 @@ Obtener todos los usuarios con todos sus datos.
 
 **email:** correo electronico del usuario
 
-### `Reset a password`
-#### Descripcion 
+## `Reset a password`
+### Descripcion 
 
-#### Datos
+### Datos
 
 ---
 
