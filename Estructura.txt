@@ -1,0 +1,25 @@
+Epica → Funcionalidad 
+
+descripcion breve 
+datos (modelo de datos que se maneja)
+
+username: alfanumerico no mas de 8
+
+points: puntos que va a conseguir el usuario, empieza en cero
+
+entrada, salida
+
+flujos alternos
+
+Flujo:
+
+Como un usuario del tipo comun, quiero poder registrarme en el sistema para utilizar plataforma. 
+** diagrama ( dds )
+
+---
+
+Users:
+
+Get a user:
+
+Create a user:

@@ -1,0 +1,8 @@
+Guia de lectura de Documentacion: La documentacion va estar dividida por Epicas que estara indicado con un H1.
+
+User Management:
+Get an user:
+Confirm user account:
+Create an user (sign-up):
+Get all users:
+Reset a password:

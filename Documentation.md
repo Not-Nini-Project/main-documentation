@@ -8,9 +8,13 @@ Obtener un usuario con todos sus datos.
 
 #### Datos
 **id:** 
+
 **username:** alfanumerico no mas de 8 caracteres
+
 **password:** 
+
 **point:** puntos que va a conseguir el usuario, empieza en cero
+
 **email:** correo electronico del usuario
 
 
@@ -29,10 +33,14 @@ Obtener un usuario con todos sus datos.
 Obtener todos los usuarios con todos sus datos.
 
 #### Datos
-**id:** 
-**username:** alfanumerico no mas de 8 caracteres
+**id:**
+
+**username** alfanumerico no mas de 8 caracteres
+
 **password:** 
+
 **point:** puntos que va a conseguir el usuario, empieza en cero
+
 **email:** correo electronico del usuario
 
 ### `Reset a password`
